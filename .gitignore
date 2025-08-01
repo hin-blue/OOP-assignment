@@ -1,0 +1,25 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Binaries
+*.dll
+*.dylib
+*.exe
+*.pdb
